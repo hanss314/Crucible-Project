@@ -1,0 +1,23 @@
+body{
+    background-image: url("background.jpg");
+    background-repeat: no-repeat;
+    background-color: #AB7A35;
+}
+div.newsTitle{
+    border-bottom:2px solid black;    
+    position:relative;
+}
+img.centre {
+    display: block;
+    margin: auto;
+    size: 40%;
+    padding-bottom: 10px;
+}
+div.centre h1,h2{
+    text-align:center; 
+    transform: translate(-25%, -25%);
+    border-bottom:1px solid black;
+    border-top:1px solid black;
+}
+
+
